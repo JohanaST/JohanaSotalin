@@ -1,3 +1,3 @@
-$(document).ready(funcion(){
+funcion(){
                   alert(Be happy!);
-                  });
+                  }
