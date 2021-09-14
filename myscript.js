@@ -1,2 +1,4 @@
-funcion(){alert("Be happy!");
-                  }
+function document() {
+  alert("Be happy!");
+}
+                  
