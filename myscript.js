@@ -1,3 +1,2 @@
-funcion(){
-                  alert(Be happy!);
+funcion(){alert("Be happy!");
                   }
